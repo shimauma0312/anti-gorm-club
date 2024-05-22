@@ -1,2 +1,1 @@
-# anti-gorm-club
-This repository is for trying out the hideous GORM.
+# GORM: The Source of My Coding Misery.
